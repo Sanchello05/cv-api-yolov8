@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+env/
+venv/
+
+# Jupyter
+*.ipynb
+.ipynb_checkpoints/
+
+# IDE
+.idea/
+.vscode/
+
+# YOLO / Ultralytics
+runs/
+*.pt
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
